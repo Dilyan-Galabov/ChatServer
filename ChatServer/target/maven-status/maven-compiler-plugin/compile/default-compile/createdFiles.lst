@@ -1,0 +1,5 @@
+chat\client\WriteThread.class
+chat\server\UserThread.class
+chat\server\ChatServer.class
+chat\client\ReadThread.class
+chat\client\ChatClient.class
